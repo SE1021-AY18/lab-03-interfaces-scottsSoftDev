@@ -3,6 +3,8 @@
  * Winter 2017-2018
  * Lab 3 - Interfaces
  * Created: 12/7/2016
+ * Author: Sam Scott
+ *
  */
 import java.util.Scanner;
 
